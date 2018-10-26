@@ -1,0 +1,3 @@
+rootProject.name = 'soal2'
+
+include ':app'
